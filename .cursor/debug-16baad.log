@@ -1,0 +1,1 @@
+{"sessionId":"16baad","location":"milvus-rag-store.js:createEmbeddings","message":"embedding request params","data":{"embeddingModel":"embedding-3","dimensions":512,"envModel":"embedding-3","envDimensions":"512","envDimensionSingular":null,"inputCount":4,"hasApiKey":true},"timestamp":1793782776139,"hypothesisId":"A","runId":"post-fix"}
